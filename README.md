@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CSS(Animations and Responsiveness) and Javascript**
 
-- 💬 Ask me about **HTML, C, CSS**
+- 💬 Ask me about **HTML, CSS, JS, C, ReactJS**
 
 - 📫 How to reach me **shubhamdave171204@gmail.com**
 
