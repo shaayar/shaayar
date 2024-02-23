@@ -53,9 +53,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shaayar/shaayar/output/snake.svg" alt="Snake animation" />
-
-###
