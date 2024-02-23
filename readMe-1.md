@@ -1,17 +1,9 @@
-<br clear="both">
-
-<h2 align="left">Hi 👋!<br>My name is Shubham and I'm a Web Developer, from India.</h2>
-
-###
+# Hi 👋! My name is Shubham and I'm a Web Developer, from India.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaayar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaayar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="120" src="https://i.imgflip.com/66o1m8.mp4"  />
 
 ###
 
