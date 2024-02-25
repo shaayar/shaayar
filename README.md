@@ -1,5 +1,7 @@
+# Shubham Dave
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shaayar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
 <h1 align="center">Hello 👋, I'm Shubham Dave</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaayar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <h3 align="left">I’m a front end developer with over 3 year of experience in creating websites and web applications.</h3>
 <h3 align="left">I have a strong knowledge of HTML, CSS, JavaScript, and various frameworks and libraries such as React, Bootstrap, SASS and Tailwind CSS.</h3>
