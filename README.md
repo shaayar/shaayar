@@ -1,9 +1,15 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
-
 <h1 align="center">Hello 👋, I'm Shubham Dave</h1>
-<h3 align="center">I’m a front end developer with over 1 year of experience in creating websites and web applications. I have a strong knowledge of HTML, CSS, JavaScript, and various frameworks and libraries such as React, Bootstrap, and Tailwind CSS. I enjoy designing and developing user interfaces that are responsive, accessible, and user-friendly. I’m passionate about learning new technologies and best practices in front end development. I’m currently looking for a new challenge where I can apply my skills and grow as a developer. I’m interested in working for your company because I admire your work and share your vision.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaayar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaayar&label=Profile%20views&color=0e75b6&style=flat" alt="shaayar" /> </p>
+<h3 align="left">I’m a front end developer with over 3 year of experience in creating websites and web applications.</h3>
+<h3 align="left">I have a strong knowledge of HTML, CSS, JavaScript, and various frameworks and libraries such as React, Bootstrap, SASS and Tailwind CSS.</h3>
+<h3 align="left">I enjoy designing and developing user interfaces that are responsive, accessible, and user-friendly.</h3>
+<h3 align="left">I’m passionate about learning new technologies and best practices in front end development.</h3>
+<h3 align="left">I’m currently looking for a new challenge where I can apply my skills and grow as a developer.</h3>
+<h3 align="left">I’m interested in working for your company because I admire your work and share your vision.</h3>
+
+<!--[![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)-->
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaayar" alt="shaayar" /></a> </p>
 
@@ -37,3 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaayar&show_icons=true&locale=en" alt="shaayar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaayar&" alt="shaayar" /></p>
+
+<a href="https://app.daily.dev/coderboi"><img src="https://api.daily.dev/devcards/v2/KnmDnhUIIpHyrLaKnIVh3.png?r=fmg&type=wide" width="652" alt="Shubham Dave's Dev Card"/></a>
