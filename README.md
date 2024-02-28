@@ -106,5 +106,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaayar&" alt="shaayar" /></p>
 
-<a href="https://app.daily.dev/coderboi"><img src="https://api.daily.dev/devcards/v2/KnmDnhUIIpHyrLaKnIVh3.png?r=fmg&type=wide" width="652" alt="Shubham Dave's Dev Card"/></a>
+<a href="https://app.daily.dev/coderboi"><img src="https://api.daily.dev/devcards/v2/KnmDnhUIIpHyrLaKnIVh3.png?type=wide&r=me7" width="652" alt="Shubham Dave's Dev Card"/></a>
 ****
