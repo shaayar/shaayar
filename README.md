@@ -8,7 +8,7 @@
 
 ### 🚀 Frontend Developer | 🌐 Web Enthusiast | 💡 Lifelong Learner  
 
-I am a **frontend developer** with over **3 years of experience** in crafting beautiful and functional websites and applications.  
+I am a **frontend developer** with over **3 years of practice** in crafting beautiful and functional websites and applications.  
 
 ### 🛠️ Skills & Expertise  
 
@@ -44,6 +44,7 @@ I am a **frontend developer** with over **3 years of experience** in crafting be
 
 - **Operating Systems**:  
   - 🐧 Linux (Ubuntu, Arch, Kali)
+  - Windows 10
 
 ---
 
@@ -113,6 +114,11 @@ I am a **frontend developer** with over **3 years of experience** in crafting be
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaayar&" alt="GitHub Streak" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaayar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+## Hackatime Stats
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2992&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
 
 ---
 
